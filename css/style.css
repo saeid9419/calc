@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(45deg,#0da84e,#aa0d64);
+}
+
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    background-color: darkgrey;
+}
